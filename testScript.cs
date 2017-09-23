@@ -12,4 +12,9 @@ public class testSript
     {
         a += num;
     }
+    
+    public void DeA_by (int num)
+    {
+        a -= num;
+    }
 }
