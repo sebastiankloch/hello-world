@@ -22,4 +22,9 @@ public class testSript
     {
         b += num;
     }
+    
+    public void DeB_by (int num)
+    {
+        b -= num;
+    }
 }
