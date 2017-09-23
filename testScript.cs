@@ -7,4 +7,9 @@ public class testSript
     {
         return a + b;
     }
+
+    public void InA_by( int num )
+    {
+        a += num;
+    }
 }
