@@ -17,4 +17,9 @@ public class testSript
     {
         a -= num;
     }
+    
+    public void InB_by( int num )
+    {
+        b += num;
+    }
 }
